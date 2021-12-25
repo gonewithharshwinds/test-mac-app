@@ -3,6 +3,8 @@
 ### Basic (simple) App for MacOS with simple functionality </br>
 </br>
 
+![Screenshot](../graphics/screenshot-testapp.png)
+
 ## General Details
 
 **Build :** *1.0* </br>
