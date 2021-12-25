@@ -3,7 +3,7 @@
 ### Basic (simple) App for MacOS with simple functionality </br>
 </br>
 
-![Screenshot](graphics/screenshot-testapp.png =250x250)
+![Screenshot](https://github.com/gonewithharshwinds/test-mac-app/graphics/screenshot-testapp.png)
 
 ## General Details
 
