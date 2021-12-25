@@ -31,6 +31,7 @@ No native support.
 
 `Installation Process (MacOS):`
 
+```
 Follow the following Instructions.
 </br>
 </br>
@@ -38,14 +39,16 @@ Follow the following Instructions.
 **Step 2 :** Unzip if required. </br>
 **Step 3 :** Right Click and select "Open" because the file is downloaded from a third party (i.e. github). </br>
 **Step 4 :** Test the app GUI
-
+```
 ---
 ### Testing app files on Xcode
 
 Follow the following Instructions. 
 </br>
 </br>
+```
 **Step 1 :** Download the folder - "testapp" in Downloads or any other folder of your choice </br>
 **Step 2 :** Unzip if required. </br>
 **Step 3 :** Right Click and select "Open with Xcode" if available. If not, open Xcode and try to locate the project folder from Xcode app. </br>
 **Step 4 :** Test the app files. </br>
+```
