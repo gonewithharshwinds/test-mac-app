@@ -3,7 +3,7 @@
 ### Basic (simple) App for MacOS with simple functionality </br>
 </br>
 
-![Screenshot](graphics/screenshot-testapp.png?raw=true "Title")
+![Screenshot](graphics/screenshot-testapp.png?raw=true "TestApp" | width=100)
 
 ## General Details
 
