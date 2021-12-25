@@ -3,7 +3,7 @@
 ### Basic (simple) App for MacOS with simple functionality </br>
 </br>
 
-![Screenshot](graphics/screenshot-testapp.png){:height="100px"}
+![Screenshot](graphics/screenshot-testapp.png =250x250)
 
 ## General Details
 
